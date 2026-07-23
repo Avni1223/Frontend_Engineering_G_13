@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+}
+.container{
+    color: white;
+    text-align: center;
+}
+
+.header1{
+    border: 10px solid rgb(13, 189, 171);
+    margin-bottom: 20px;
+    margin-top: 200px;
+    display: flex;
+
+}
+
+.header2{
+    border: 10px solid rgb(230, 207, 62);
+     margin-bottom: 20px;
+     display: flex;
+}
+
+.header3{
+    border: 10px solid rgb(186, 23, 192);
+     margin-bottom: 20px;
+     display: flex;
+}
